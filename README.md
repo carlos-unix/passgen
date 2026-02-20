@@ -1,6 +1,6 @@
 ## Configuration
 
-You need to firstly compile the source code `main.cpp` using [g++](https://www.mingw-w64.org/).
+You need to firstly compile the source code `main.cpp` using [g++](https://www.mingw-w64.org/) on Windows. If you use linux, run `sudo your_package_manager install base-devel` or `sudo your_package_manager install g++`.
 
 ## Script usage
 
